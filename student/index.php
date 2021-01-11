@@ -1,0 +1,1 @@
+<?php require_once 'view/login_student.php'?>
